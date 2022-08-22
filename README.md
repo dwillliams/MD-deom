@@ -1,4 +1,4 @@
-# MD-deom
+# MD-demo
 learning markdown
 
 ### Trying out styles
@@ -16,3 +16,24 @@ we want a function of arguments `x` and `y`. Here it is.
 ### quote of the day
 >Eat more spinach. Says popeye the sailor man. 
 >>He was actually just taking steroids that looked like spinach and took 3x the lethal dose of preworkout.
+
+### Here is an unordered list
+List is 
+* Eat
+* Pray
+* Love
+	* Find _other_
+	* Convince other of *worth*
+	* Hope
+* Sleep
+* Do it all again
+
+Another List of Fruit
+1. Pineapple
+2. Peach
+3. Mango 
+4. Lime 
+5. Lemon
+6. Banana
+7. Cherries
+8. Apple
